@@ -1,16 +1,43 @@
-## Hi there 👋
+# Привет! Я Artem Semianyk 👋
 
-<!--
-**artemsemianyk/artemsemianyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Преподаватель и наставник по AI и интернет-маркетингу
 
-Here are some ideas to get you started:
+**AI и интернет-маркетинг простыми словами.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Делюсь обзорами, пошаговыми инструкциями и практическими уроками, которые помогают разобраться в современных цифровых инструментах и применять их в работе и бизнесе.
+
+---
+
+### 🚀 Основные направления
+
+**🤖 Искусственный интеллект**
+
+Практическое применение AI-инструментов для повседневных и профессиональных задач.
+
+**📚 Обучение и наставничество**
+
+Понятные объяснения, инструкции и практические материалы для освоения AI и интернет-маркетинга.
+
+**📈 Интернет-маркетинг**
+
+Контент, цифровые инструменты и способы организации маркетинговых процессов.
+
+**⚙️ AI-автоматизация**
+
+Изучение и практическое применение инструментов автоматизации рабочих процессов.
+
+---
+
+### 🌐 Где меня найти
+
+**Сайт:** [artemsemianyk.de](https://artemsemianyk.de)
+
+**YouTube:** [@artemsemianyk](https://www.youtube.com/@artemsemianyk)
+
+**TikTok:** [@artem.semianyk](https://www.tiktok.com/@artem.semianyk)
+
+**Instagram:** [@artem.semianyk](https://www.instagram.com/artem.semianyk/)
+
+---
+
+*Обзоры, инструкции и практические уроки для работы и бизнеса.*
